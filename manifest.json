@@ -1,0 +1,11 @@
+{
+  "name": "CEKLIST SPJ 2026",
+  "short_name": "App_CEKLIS SPJ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "ceklist-spj.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "ceklist-spj.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
